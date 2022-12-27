@@ -1,6 +1,6 @@
 # primer-slide
 
-## Hornady Lock N Load primer slide replacement
+## Hornady Lock N Load small pistol primer slide replacement
 
 Typically the primer slide has little to no stress on it.  So it's rare for it to break.
 

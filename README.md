@@ -16,4 +16,4 @@ I was able to salvage and use the shaft and wheel from the broken slide.
 
 The 3D printed holes were all very close, and a drill bit finished them out perfectly.
 
-I used a 1/4" endmill in my drill press to mill out the groove in the top.
+I used a 1/4" endmill in my drill press at 300 rpm to mill out the groove in the top.  Without that groove, the bottom edge of the next primer up will grab the slide and prevent it from returning.
